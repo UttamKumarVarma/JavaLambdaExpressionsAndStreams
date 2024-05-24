@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author uttam
- *
- */
-module JavaLambdaExpressionsAndStreams {
-}
